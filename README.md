@@ -26,4 +26,4 @@ Al consumir esta operación podrás saber si la secuencia DNA que envías corres
 	 		- La secuencia ADN debe de ser un array de dimensiones NxN
 
     + **GET → /stats**
-	    Al consumir esta operación podrás obtener una estadistica de los humanos mutantes y no mutantes.
+	    Al consumir esta operación podrás obtener una estadística de los humanos mutantes y no mutantes.
